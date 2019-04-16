@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Unit13_FirebaseFish_2018.iml" filepath="$PROJECT_DIR$/Unit13_FirebaseFish_2018.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/unit-13-firebase-fish-ckillian26.iml" filepath="$PROJECT_DIR$/unit-13-firebase-fish-ckillian26.iml" />
     </modules>
   </component>
 </project>
